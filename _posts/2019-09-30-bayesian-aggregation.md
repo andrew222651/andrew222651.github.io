@@ -13,6 +13,13 @@ common prior with the combined private information?
 At least under certain conditions,
 [yes](https://web.stanford.edu/~ost/papers/aggregation.pdf).
 
+<script>
+  // only run if we're on the post's dedicated page
+  if (window.location.pathname.indexOf("qs") > -1) {
+    window.location.replace("https://github.com/andrew222651/public_notes/wiki/Belief-aggregation-with-computational-constraints");
+  }
+</script>
+
 Great, so maybe there should be an efficient distributed algorithm to do
 Bayesian inference by splitting up the dataset, doing inference on each
 worker, and then aggregating the results?
