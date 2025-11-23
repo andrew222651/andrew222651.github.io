@@ -3,5 +3,5 @@ layout: page
 title: "About"
 ---
 
-My [GitHub account](https://github.com/andrew222651)
+By Andrew M. MacFie
 
