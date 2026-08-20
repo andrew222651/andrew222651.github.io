@@ -84,7 +84,7 @@ Modern English:
 >A prince can bestow the title of knight, <br />
 >Or marquis, duke, and all that! <br />
 >But an honest man is above all of these - <br />
->Good faith, he must not fault that <br />
+>Indeed, he must not lay claim to that <br />
 >Despite all that, and all that, <br />
 >Their titles, and all that, <br />
 >Strength of sense and pride of merit <br />
