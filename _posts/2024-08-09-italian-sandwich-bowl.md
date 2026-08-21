@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Italian sandwich bowl
+title: Italian sandwich bowl recipe
 ---
 
 * high-quality (e.g. Maple Leaf Natural Selections) deli meat
