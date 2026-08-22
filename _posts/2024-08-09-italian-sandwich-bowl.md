@@ -18,4 +18,4 @@ title: Italian sandwich bowl recipe
 * dried oregano, parsley, basil
 
 
-![Italian sandwich bowl photo]({{"/public/PXL_20250721_225212427.MP~2.jpg" | absolute_url}})
+![Italian sandwich bowl photo]({{"/public/PXL_20250721_225212427.MP~4.jpg" | absolute_url}})
