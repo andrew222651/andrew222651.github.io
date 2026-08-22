@@ -17,3 +17,5 @@ title: Italian sandwich bowl recipe
 * paleo mayo, mustard, salad dressing
 * dried oregano, parsley, basil
 
+
+![Italian sandwich bowl photo]({{"/public/PXL_20250721_225212427.MP~2.jpg" | absolute_url}})
