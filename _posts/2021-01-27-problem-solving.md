@@ -28,7 +28,7 @@ steps automatically (which requires no special teaching or memory aid) and
 generating them uniformly at random or exhaustively (which is useless).
 Heuristics may be general (see below) or
 branch-specific (e.g. major counting techniques, inequalities cheat sheet).
-they also may be more for information gathering or more for directly
+They also may be more for information gathering or more for directly
 taking a step towards a solution.
 
 General heuristics:
