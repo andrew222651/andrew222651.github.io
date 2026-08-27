@@ -68,7 +68,7 @@ Two possible methods are computer tools or bootstrapping by riffing
 off of your own discoveries while making attempts towards a solution.
 
 Computer tools for generating ideas:
-* https://github.com/andrew222651/mathtext/tree/master/info_retrieval
+* <https://github.com/andrew222651/mathtext/tree/master/info_retrieval>
 * AI
 
 With regards to bootstrapping, Richard Rusczyk's [top tip](https://artofproblemsolving.com/news/articles/dealing-with-hard-problems) is "Do something ... At some point you have to stop
