@@ -10,5 +10,6 @@ Mainland Canada [extends south](https://en.wikipedia.org/wiki/List_of_extreme_po
 Victoria, BC has a ["warm-summer Mediterranean climate"](https://en.wikipedia.org/wiki/Mediterranean_climate#Warm-summer_Mediterranean_climate)
 like Porto, Portugal and Cape Town, South Africa.
 
-Canada's most picturesque spot is Lake Louise
+Canada's most picturesque spot is Lake Louise.
 
+The Newfoundland accent on Fogo Island is so strong it just sounds like an Irish accent.
